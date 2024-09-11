@@ -1,0 +1,16 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px;
+  select {
+    background: transparent;
+    color: blue;
+    border-radius: 5px;
+    padding: 8px;
+  }
+  option {
+    color: black;
+  }
+}
